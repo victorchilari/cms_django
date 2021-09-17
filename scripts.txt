@@ -1,0 +1,7 @@
+// Run VENV
+cd C:\Users\Nemo\Documents\GitHub\cms_django\venv\Scripts
+activate
+
+// Run server
+cd C:\Users\Nemo\Documents\GitHub\cms_django\webpage_root
+python manage.py runserver
